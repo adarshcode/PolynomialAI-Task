@@ -26,9 +26,9 @@ This is my submission for ML/NLP task for polynomial.ai.
 
 |                      | precision | recall | f1-score | support |
 |----------------------|-----------|--------|----------|---------|
-| negative(-1)         | 0.78      | 0.68   | 0.73     | 43035   |
-| neutral(0)           | 0.49      | 0.20   | 0.28     | 18990   |
-| positive(1)          | 0.89      | 0.97   | 0.93     | 184920  |
+| negative (-1)        | 0.78      | 0.68   | 0.73     | 43035   |
+| neutral (0)          | 0.49      | 0.20   | 0.28     | 18990   |
+| positive (1)         | 0.89      | 0.97   | 0.93     | 184920  |
 |                                                                |
 | accuracy             |           |        | 0.86     | 246945  |
 | macro avg            | 0.72      | 0.62   | 0.65     | 246945  |
