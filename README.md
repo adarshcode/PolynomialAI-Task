@@ -36,3 +36,7 @@ This is my submission for ML/NLP task for polynomial.ai.
 ------------------------------------------------------------------
 
  
+----
+
+## Colab Notebook Link:-
+- https://colab.research.google.com/drive/1QKcnH5rMZQLJ3Q_S5NpB3jR8ZIG45wfh?usp=sharing
